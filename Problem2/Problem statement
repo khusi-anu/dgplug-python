@@ -1,0 +1,4 @@
+Write a program in Python to perform the following operation :
+Input : Take starting index and ending index.
+Output : Output the intermediate numbers (inclusive of starting and ending index).
+Perform the above using infinite while loop.

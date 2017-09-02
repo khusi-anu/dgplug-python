@@ -1,0 +1,5 @@
+Scooby Doo problem :
+This is a program which prints "Scooby" for the multiples of 3, prints "Dooby" for multiples of 7 and prints "Scooby Doo" for the multiples of 3 and 7. It prints the number itself otherwise.
+Write a program in python to implement tha above case.
+INPUT : Numbers ranging from 1 to 100.
+OUTPUT : Print accordingly "Scooby", "Dooby", "Scooby Doo" or the number.

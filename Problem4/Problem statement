@@ -1,0 +1,4 @@
+Write a program in python to list all the fruits whose names start with a vowel.
+
+INPUT: A basket containing list of fruits, say, "apple", "banana", "pineapple", "mango"
+OUTPUT: The names of the fruits whose name starts with a vowel.

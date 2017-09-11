@@ -12,3 +12,4 @@ Gist of all problems are:
 7. Evaluate IRC logs.
 8. Return name and version id of the current distribution.
 9. Return the number of cores in your current system.
+10. Take Input as an URL and check if there is any image in that url. 
